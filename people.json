@@ -1,0 +1,326 @@
+{
+  "version": "1.0.0",
+  "description": "Dataset de perfis e avatares sintéticos gerados por Inteligência Artificial para uso em ambientes sandbox, testes e demonstrações.",
+  "profiles": [
+    {
+      "id": 1,
+      "name": "Renata Silva",
+      "first_name": "Renata",
+      "last_name": "Silva",
+      "category": "adult",
+      "gender": "female",
+      "age": 32,
+      "avatar_file": "adult/renata.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Rodrigo Silva",
+      "first_name": "Rodrigo",
+      "last_name": "Silva",
+      "category": "adult",
+      "gender": "male",
+      "age": 34,
+      "avatar_file": "adult/rodrigo.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Roberta Mendes",
+      "first_name": "Roberta",
+      "last_name": "Mendes",
+      "category": "adult",
+      "gender": "female",
+      "age": 33,
+      "avatar_file": "adult/roberta.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Rafael Mendes",
+      "first_name": "Rafael",
+      "last_name": "Mendes",
+      "category": "adult",
+      "gender": "male",
+      "age": 35,
+      "avatar_file": "adult/rafael.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Ricardo Rocha",
+      "first_name": "Ricardo",
+      "last_name": "Rocha",
+      "category": "adult",
+      "gender": "male",
+      "age": 38,
+      "avatar_file": "adult/ricardo.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Raquel Rocha",
+      "first_name": "Raquel",
+      "last_name": "Rocha",
+      "category": "adult",
+      "gender": "female",
+      "age": 36,
+      "avatar_file": "adult/raquel.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Gisele Silveira",
+      "first_name": "Gisele",
+      "last_name": "Silveira",
+      "category": "adult",
+      "gender": "female",
+      "age": 45,
+      "avatar_file": "adult/gisele.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Patrícia Albuquerque",
+      "first_name": "Patrícia",
+      "last_name": "Albuquerque",
+      "category": "adult",
+      "gender": "female",
+      "age": 35,
+      "avatar_file": "adult/patricia.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Priscila Duarte",
+      "first_name": "Priscila",
+      "last_name": "Duarte",
+      "category": "adult",
+      "gender": "female",
+      "age": 30,
+      "avatar_file": "adult/priscila.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Pedro Henrique Santos",
+      "first_name": "Pedro",
+      "last_name": "Santos",
+      "category": "adult",
+      "gender": "male",
+      "age": 40,
+      "avatar_file": "adult/pedro.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Amanda Silveira",
+      "first_name": "Amanda",
+      "last_name": "Silveira",
+      "category": "adult",
+      "gender": "female",
+      "age": 26,
+      "avatar_file": "adult/amanda.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Antônio Silva",
+      "first_name": "Antônio",
+      "last_name": "Silva",
+      "category": "adult",
+      "gender": "male",
+      "age": 68,
+      "avatar_file": "adult/antonio.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Alexandre Transporte",
+      "first_name": "Alexandre",
+      "last_name": "Transporte",
+      "category": "adult",
+      "gender": "male",
+      "age": 45,
+      "avatar_file": "adult/alexandre.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Enzo Silva",
+      "first_name": "Enzo",
+      "last_name": "Silva",
+      "category": "child",
+      "gender": "male",
+      "age": 4,
+      "avatar_file": "child/enzo.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Helena Silva",
+      "first_name": "Helena",
+      "last_name": "Silva",
+      "category": "child",
+      "gender": "female",
+      "age": 6,
+      "avatar_file": "child/helena.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Lucas Mendes",
+      "first_name": "Lucas",
+      "last_name": "Mendes",
+      "category": "child",
+      "gender": "male",
+      "age": 4,
+      "avatar_file": "child/lucas.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Felipe Mendes",
+      "first_name": "Felipe",
+      "last_name": "Mendes",
+      "category": "child",
+      "gender": "male",
+      "age": 6,
+      "avatar_file": "child/felipe.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Bernardo Rocha",
+      "first_name": "Bernardo",
+      "last_name": "Rocha",
+      "category": "child",
+      "gender": "male",
+      "age": 4,
+      "avatar_file": "child/bernardo.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Beatriz Rocha",
+      "first_name": "Beatriz",
+      "last_name": "Rocha",
+      "category": "child",
+      "gender": "female",
+      "age": 4,
+      "avatar_file": "child/beatriz.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Heitor Rocha",
+      "first_name": "Heitor",
+      "last_name": "Rocha",
+      "category": "child",
+      "gender": "male",
+      "age": 6,
+      "avatar_file": "child/heitor.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Gabriel Silveira",
+      "first_name": "Gabriel",
+      "last_name": "Silveira",
+      "category": "child",
+      "gender": "male",
+      "age": 5,
+      "avatar_file": "child/gabriel.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Manuela Silveira",
+      "first_name": "Manuela",
+      "last_name": "Silveira",
+      "category": "child",
+      "gender": "female",
+      "age": 7,
+      "avatar_file": "child/manuela.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Arthur Santos",
+      "first_name": "Arthur",
+      "last_name": "Santos",
+      "category": "child",
+      "gender": "male",
+      "age": 6,
+      "avatar_file": "child/arthur.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Laura Santos",
+      "first_name": "Laura",
+      "last_name": "Santos",
+      "category": "child",
+      "gender": "female",
+      "age": 4,
+      "avatar_file": "child/laura.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Theo Albuquerque",
+      "first_name": "Theo",
+      "last_name": "Albuquerque",
+      "category": "child",
+      "gender": "male",
+      "age": 5,
+      "avatar_file": "child/theo.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Alice Albuquerque",
+      "first_name": "Alice",
+      "last_name": "Albuquerque",
+      "category": "child",
+      "gender": "female",
+      "age": 6,
+      "avatar_file": "child/alice.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Davi Duarte",
+      "first_name": "Davi",
+      "last_name": "Duarte",
+      "category": "child",
+      "gender": "male",
+      "age": 5,
+      "avatar_file": "child/davi.jpg"
+    },
+    {
+      "id": 28,
+      "name": "Sofia Duarte",
+      "first_name": "Sofia",
+      "last_name": "Duarte",
+      "category": "child",
+      "gender": "female",
+      "age": 7,
+      "avatar_file": "child/sofia.jpg"
+    },
+    {
+      "id": 29,
+      "name": "Mateus Silva",
+      "first_name": "Mateus",
+      "last_name": "Silva",
+      "category": "child",
+      "gender": "male",
+      "age": 5,
+      "avatar_file": "child/mateus.jpg"
+    },
+    {
+      "id": 30,
+      "name": "Lorena Mendes",
+      "first_name": "Lorena",
+      "last_name": "Mendes",
+      "category": "child",
+      "gender": "female",
+      "age": 5,
+      "avatar_file": "child/lorena.jpg"
+    },
+    {
+      "id": 31,
+      "name": "Rafaela Rocha",
+      "first_name": "Rafaela",
+      "last_name": "Rocha",
+      "category": "child",
+      "gender": "female",
+      "age": 6,
+      "avatar_file": "child/rafaela.jpg"
+    },
+    {
+      "id": 32,
+      "name": "Nicolas Santos",
+      "first_name": "Nicolas",
+      "last_name": "Santos",
+      "category": "child",
+      "gender": "male",
+      "age": 5,
+      "avatar_file": "child/nicolas.jpg"
+    }
+  ]
+}
