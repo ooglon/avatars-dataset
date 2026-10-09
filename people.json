@@ -321,6 +321,36 @@
       "gender": "male",
       "age": 5,
       "avatar_file": "child/nicolas.jpg"
+    },
+    {
+      "id": 33,
+      "name": "Guilherme Rocha",
+      "first_name": "Guilherme",
+      "last_name": "Rocha",
+      "category": "adult",
+      "gender": "male",
+      "age": 31,
+      "avatar_file": "adult/guilherme.jpg"
+    },
+    {
+      "id": 34,
+      "name": "Paulo Duarte",
+      "first_name": "Paulo",
+      "last_name": "Duarte",
+      "category": "adult",
+      "gender": "male",
+      "age": 41,
+      "avatar_file": "adult/paulo.jpg"
+    },
+    {
+      "id": 35,
+      "name": "Nina Silveira",
+      "first_name": "Nina",
+      "last_name": "Silveira",
+      "category": "adult",
+      "gender": "female",
+      "age": 29,
+      "avatar_file": "adult/nina.jpg"
     }
   ]
 }
